@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f267c7e208ff7cc409b76c274f4fe1cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PersistentViewDataDictionary: {instanceID: 0}
+  - m_FxShader: {instanceID: 0}
+  - m_GradationTexture: {instanceID: 0}
+  - m_RT: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
