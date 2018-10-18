@@ -320,7 +320,7 @@ namespace ArtTool
             bool change = EditorGUI.EndChangeCheck();
             if (change)
             {
-                m_CurrentPane.OnChangeGradient(m_Gradient);
+                if (m_CurrentPane != null) m_CurrentPane.OnChangeGradient(m_Gradient);
                 s_NeedBlitGradient = true;
             }
         }
